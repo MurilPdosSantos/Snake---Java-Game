@@ -1,0 +1,10 @@
+## Snake Update
+###########################################################################
+## Update
+----
+$- Implementação da função pause;
+----
+## Update Secret
+----
+~# Implementação de novo chet;
+----
